@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66f0b3dc-a68b-4f65-bdd9-fafa24d3c7e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1acPoukXWZvX5FzSMH3oUXrbei7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../contaktformular" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cemile Atasoy\Desktop\03_Weather\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Cemile Atasoy\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66f0b3dc-a68b-4f65-bdd9-fafa24d3c7e2" name="Default Changelist" comment="" />
+      <created>1587032086148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587032086148</updated>
+      <workItem from="1587032088908" duration="2330000" />
+      <workItem from="1587034528069" duration="812000" />
+      <workItem from="1587046286130" duration="2301000" />
+      <workItem from="1587305641174" duration="3703000" />
+      <workItem from="1587323399463" duration="6800000" />
+      <workItem from="1587401935836" duration="3804000" />
+      <workItem from="1587410025202" duration="12584000" />
+      <workItem from="1587455727532" duration="2564000" />
+      <workItem from="1587469527008" duration="4308000" />
+      <workItem from="1587477746259" duration="3528000" />
+      <workItem from="1587493844426" duration="4127000" />
+      <workItem from="1587556793681" duration="1792000" />
+      <workItem from="1587558671532" duration="213000" />
+      <workItem from="1587565602031" duration="94000" />
+      <workItem from="1587567075596" duration="1059000" />
+      <workItem from="1587569070391" duration="25000" />
+      <workItem from="1599764981964" duration="609000" />
+      <workItem from="1599767472054" duration="881000" />
+      <workItem from="1599805776403" duration="886000" />
+      <workItem from="1604816862372" duration="208000" />
+      <workItem from="1604842009302" duration="1140000" />
+      <workItem from="1604867450849" duration="678000" />
+      <workItem from="1604915161023" duration="37000" />
+      <workItem from="1605049477220" duration="654000" />
+      <workItem from="1606829409902" duration="788000" />
+      <workItem from="1609932741601" duration="1379000" />
+      <workItem from="1610752582615" duration="108000" />
+      <workItem from="1610791207078" duration="2212000" />
+      <workItem from="1610847007694" duration="964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1610847475708">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610847475708" />
+    <state width="1237" height="129" key="GridCell.Tab.0.bottom" timestamp="1610847711883">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610847711883" />
+    <state width="1237" height="129" key="GridCell.Tab.0.center" timestamp="1610847711883">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610847711883" />
+    <state width="1237" height="129" key="GridCell.Tab.0.left" timestamp="1610847711883">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610847711883" />
+    <state width="1237" height="129" key="GridCell.Tab.0.right" timestamp="1610847711883">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="129" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610847711883" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1604915179666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604915179666" />
+  </component>
+</project>
